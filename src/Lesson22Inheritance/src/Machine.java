@@ -6,7 +6,6 @@ public class Machine {
     // String name = "Machine type 1"; // will work
     protected String name = "Machine type 1"; // will work in child classes
 
-
     public  void start() {
         System.out.println("Machine started.");
     }

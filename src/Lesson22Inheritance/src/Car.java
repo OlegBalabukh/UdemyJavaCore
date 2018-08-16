@@ -13,7 +13,6 @@ public class Car extends Machine {  // Car is child of Machine; Machine is paren
         System.out.println("Car stopped.");
     }
 
-
     public void wipeWindShield() {
         System.out.println("Wiping windshield.");
     }

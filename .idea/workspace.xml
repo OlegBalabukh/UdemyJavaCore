@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf7983b5-7229-4546-ba08-61f247f142b1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson10Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson11ArraysOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson12MultiDimensionalArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1HelloWorldProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2UsingVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4WhileLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson5ForLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6ConditionalStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson7GettingUserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9Switch.java" afterDir="false" />
+    <list default="true" id="bf7983b5-7229-4546-ba08-61f247f142b1" name="Default" comment="lessons 23-25 edited">
+      <change afterPath="$PROJECT_DIR$/src/Lesson20StringBuilderAndStringFormatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson21toStringMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson22Inheritance/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson22Inheritance/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson22Inheritance/src/Machine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,20 +19,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Lesson11ArraysOfStrings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson11ArraysOfStrings.java">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson24Interfaces/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="476">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lesson12MultiDimensionalArrays.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lesson12MultiDimensionalArrays.java">
+      <file leaf-file-name="Info.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson24Interfaces/Info.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+            <state relative-caret-position="84">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IStartable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson24Interfaces/IStartable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Machine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson24Interfaces/Machine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="122" selection-start-line="2" selection-start-column="122" selection-end-line="2" selection-end-column="122" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson24Interfaces/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Field.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Field.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Oak.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Oak.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Plant.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Plant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-257">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Grass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/Grass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -51,6 +114,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -75,6 +139,33 @@
         <option value="$PROJECT_DIR$/src/Lesson10Arrays.java" />
         <option value="$PROJECT_DIR$/src/Lesson11ArraysOfStrings.java" />
         <option value="$PROJECT_DIR$/src/Lesson12MultiDimensionalArrays.java" />
+        <option value="$PROJECT_DIR$/src/Lesson13ClassesAndObjects.java" />
+        <option value="$PROJECT_DIR$/src/Lesson14Methods.java" />
+        <option value="$PROJECT_DIR$/src/Lesson15GettersAndReturnValues.java" />
+        <option value="$PROJECT_DIR$/src/Lesson16MethodParameters.java" />
+        <option value="$PROJECT_DIR$/src/Lesson17SettersAndThis.java" />
+        <option value="$PROJECT_DIR$/src/Lesson18Constructors.java" />
+        <option value="$PROJECT_DIR$/src/Lesson19StaticAndFinal.java" />
+        <option value="$PROJECT_DIR$/src/Lesson20StringBuilderAndStringFormatting.java" />
+        <option value="$PROJECT_DIR$/src/Lesson21toStringMethod.java" />
+        <option value="$PROJECT_DIR$/src/Lesson22Inheritance.java" />
+        <option value="$PROJECT_DIR$/src/Lesson22Inheritance/src/App.java" />
+        <option value="$PROJECT_DIR$/src/Lesson23Packages/src/appPackage/App.java" />
+        <option value="$PROJECT_DIR$/src/Lesson24Interfaces/Info.java" />
+        <option value="$PROJECT_DIR$/src/Lesson24Interfaces/Person.java" />
+        <option value="$PROJECT_DIR$/src/Lesson24Interfaces/Machine.java" />
+        <option value="$PROJECT_DIR$/src/Lesson24Interfaces/App.java" />
+        <option value="$PROJECT_DIR$/src/Lesson24Interfaces/IStartable.java" />
+        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/Oak.java" />
+        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/Plant.java" />
+        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/Field.java" />
+        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Field.java" />
+        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Oak.java" />
+        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/Grass.java" />
+        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Plant.java" />
+        <option value="$PROJECT_DIR$/src/Lesson22Inheritance/src/Car.java" />
+        <option value="$PROJECT_DIR$/src/Lesson22Inheritance/src/Machine.java" />
+        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/App.java" />
       </list>
     </option>
   </component>
@@ -93,8 +184,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,6 +200,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -125,29 +216,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Lesson12MultiDimensionalArrays">
-    <configuration name="Lesson10Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson10Arrays" />
+  <component name="RunManager" selected="Application.App (3)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson23Packages.src.appPackage.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson23Packages.src.appPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
-    <configuration name="Lesson11ArraysOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson11ArraysOfStrings" />
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson24Interfaces.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson24Interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
-    <configuration name="Lesson12MultiDimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson12MultiDimensionalArrays" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson22Inheritance.src.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson22Inheritance.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
-    <configuration name="Lesson8DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson8DoWhile" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson25PublicPrivateProtected.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson25PublicPrivateProtected.world.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
-    <configuration name="Lesson9Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson9Switch" />
+    <configuration name="Lesson21toStringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson21toStringMethod" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -193,19 +308,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Lesson8DoWhile" />
-      <item itemvalue="Application.Lesson9Switch" />
-      <item itemvalue="Application.Lesson10Arrays" />
-      <item itemvalue="Application.Lesson11ArraysOfStrings" />
-      <item itemvalue="Application.Lesson12MultiDimensionalArrays" />
+      <item itemvalue="Application.Lesson21toStringMethod" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.App (2)" />
+      <item itemvalue="Application.App (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson12MultiDimensionalArrays" />
-        <item itemvalue="Application.Lesson11ArraysOfStrings" />
-        <item itemvalue="Application.Lesson10Arrays" />
-        <item itemvalue="Application.Lesson9Switch" />
-        <item itemvalue="Application.Lesson8DoWhile" />
+        <item itemvalue="Application.App (3)" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Lesson21toStringMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -220,26 +335,47 @@
       <option name="presentableId" value="Default" />
       <updated>1534149903286</updated>
     </task>
+    <task id="LOCAL-00001" summary="lessons 1-12 completed">
+      <created>1534174040404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534174040404</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lessons 13-19 added">
+      <created>1534263795582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534263795582</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lessons 20-25 added">
+      <created>1534347184093</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534347184093</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49947917" weight="0.32937366" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49739584" weight="0.32937366" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50104165" side_tool="true" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="7" sideWeight="0.5052083" side_tool="true" visible="true" weight="0.32937366" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49895832" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947917" weight="0.32937366" />
+      <window_info anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.49479166" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18072917" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -257,22 +393,45 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lessons 1-12 completed" />
+    <MESSAGE value="lessons 13-19 added" />
+    <MESSAGE value="lessons 20-25 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessons 20-25 added" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Lesson13ClassesAndObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="19" column="21" selection-start-line="17" selection-start-column="8" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson14Methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson11ArraysOfStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson12MultiDimensionalArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson1HelloWorldProgram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding>
-            <element signature="e#76#77#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson2UsingVariables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -318,13 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson9Switch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson10Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
@@ -334,15 +486,237 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson11ArraysOfStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
+        <state relative-caret-position="728">
           <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson2UsingVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson12MultiDimensionalArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        <state relative-caret-position="672">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson15GettersAndReturnValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson14Methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson9Switch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson16MethodParameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="25" column="100" selection-start-line="25" selection-start-column="100" selection-end-line="25" selection-end-column="100" />
+          <folding>
+            <element signature="e#40#41#0" expanded="true" />
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson17SettersAndThis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson18Constructors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson13ClassesAndObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson19StaticAndFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson20StringBuilderAndStringFormatting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson22Inheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" lean-forward="true" selection-start-column="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson21toStringMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson25PublicPrivateProtected.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" lean-forward="true" selection-start-column="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson22Inheritance/src/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson22Inheritance/src/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson22Inheritance/src/Machine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="75" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson23Packages/src/appPackage/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson23Packages/src/ocean/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson23Packages/src/ocean/Seaweed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson24Interfaces/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson24Interfaces/Info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson24Interfaces/IStartable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson24Interfaces/Machine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="122" selection-start-line="2" selection-start-column="122" selection-end-line="2" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson24Interfaces/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Oak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Plant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-257">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/Grass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
