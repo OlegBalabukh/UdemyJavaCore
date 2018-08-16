@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf7983b5-7229-4546-ba08-61f247f142b1" name="Default" comment="lessons 23-25 edited">
+    <list default="true" id="bf7983b5-7229-4546-ba08-61f247f142b1" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/src/Lesson20StringBuilderAndStringFormatting.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Lesson21toStringMethod.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Lesson22Inheritance/src/App.java" afterDir="false" />
@@ -169,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="100" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -356,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534347184093</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lessons 23-25 edited">
+      <created>1534401415775</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534401415775</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -397,7 +404,8 @@
     <MESSAGE value="lessons 1-12 completed" />
     <MESSAGE value="lessons 13-19 added" />
     <MESSAGE value="lessons 20-25 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="lessons 20-25 added" />
+    <MESSAGE value="lessons 23-25 edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessons 23-25 edited" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Lesson13ClassesAndObjects.java">
