@@ -30,11 +30,11 @@ public class App {
         // Won't work -- type is private
         // System.out.println(plant.type);
 
-        // size is protected but App is not at the same package as Plant;
+        // size is protected but Lesson13ClassesAndObjects is not at the same package as Plant;
         // So, won't work
         // System.out.println(plant.size);
 
-        // won't work because App and Plant are in different packages, height has package-level visibility
+        // won't work because Lesson13ClassesAndObjects and Plant are in different packages, height has package-level visibility
         // System.out.println(plant.height);
 
 
