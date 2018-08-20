@@ -1,6 +1,5 @@
 package Lesson42InnerClasses;
 
-
 // It should be only one public class in java file with the same name as java file containing this class
 public class App {
     public static void main(String[] args) {  // main - base class; entry point

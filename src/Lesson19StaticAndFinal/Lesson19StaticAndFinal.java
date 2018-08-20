@@ -49,7 +49,5 @@ public class Lesson19StaticAndFinal {
         // Math.PI = 3; error: can"t modify constant variable (name of a constant: all uppercase letters)
 
         System.out.println(Thing.LUCKY_NUMBER);  // output created constant var
-
-
     }
 }

@@ -25,7 +25,7 @@ class Machine {
 public class Lesson18Constructors {
     public static void main(String[] args) {
         Machine machine1 = new Machine();
-        // Lesson18Constructors.Machine machine2 = new Lesson18Constructors.Machine("Bertie");
-        // Lesson18Constructors.Machine machine3 = new Lesson18Constructors.Machine("Bobby", 8);
+        // Machine machine2 = new Machine("Bertie");
+        // Machine machine3 = new Machine("Bobby", 8);
     }
 }

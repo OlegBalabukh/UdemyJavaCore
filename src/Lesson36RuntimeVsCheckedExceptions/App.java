@@ -1,6 +1,6 @@
 package Lesson36RuntimeVsCheckedExceptions;
 
-public class Lesson36RuntimeVsCheckedExceptions {
+public class App {
     public static void main(String[] args) {
 
         /*

@@ -1,6 +1,6 @@
 package Lesson20StringBuilderAndStringFormatting;
 
-public class Lesson20StringBuilderAndStringFormatting {
+public class App {
     public static void main(String[] args) {
         String info = "";
 
