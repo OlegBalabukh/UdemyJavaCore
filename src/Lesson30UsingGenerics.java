@@ -23,7 +23,7 @@ public class Lesson30UsingGenerics {
         ////////////////////  Modern style  ////////////////////
         // In a class, using generics, you can specify what kind of object you want that class to work with
 
-        ArrayList<String> strings = new ArrayList<String>();
+        ArrayList<String> strings = new ArrayList<>();
         strings.add("cat");
         strings.add("dog");
         strings.add("alligator");
@@ -32,7 +32,7 @@ public class Lesson30UsingGenerics {
         System.out.println(animal);
 
         ////////////////////  There can be more than one type of argument  ////////////////////
-        HashMap<Integer, String> map = new HashMap<Integer, String>();
+        HashMap<Integer, String> map = new HashMap<>();
 
         /////  Java 7 style  /////
         ArrayList<Animal> animalList = new ArrayList<>();
