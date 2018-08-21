@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7983b5-7229-4546-ba08-61f247f142b1" name="Default" comment="added lesson1 29-30">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/ReadObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/WriteObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson46SerializingArrays/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson46SerializingArrays/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson46SerializingArrays/ReadObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson46SerializingArrays/WriteObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/WriteObjects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson35MultipleExceptions/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson35MultipleExceptions/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson35MultipleExceptions/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson35MultipleExceptions/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,30 +30,44 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson34HandlingExeptions/demo3/App.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ReadObjects.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="252">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/App.java">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="252">
+              <caret line="15" column="79" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+              <folding>
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/Test.java">
+      <file leaf-file-name="WriteObjects.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/WriteObjects.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="280">
+              <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,16 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/Oak.java" />
-        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/Plant.java" />
-        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/Field.java" />
-        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Field.java" />
-        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Oak.java" />
-        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/Grass.java" />
-        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Plant.java" />
-        <option value="$PROJECT_DIR$/src/Lesson22Inheritance/src/Car.java" />
-        <option value="$PROJECT_DIR$/src/Lesson22Inheritance/src/Machine.java" />
-        <option value="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/App.java" />
         <option value="$PROJECT_DIR$/src/Lesson26Polymorphism/src/Plant.java" />
         <option value="$PROJECT_DIR$/src/Lesson26Polymorphism/src/Tree.java" />
         <option value="$PROJECT_DIR$/src/Lesson26Polymorphism/src/App.java" />
@@ -117,6 +130,16 @@
         <option value="$PROJECT_DIR$/src/Lesson35MultipleExceptions/App.java" />
         <option value="$PROJECT_DIR$/src/Lesson35MultipleExceptions/Test.java" />
         <option value="$PROJECT_DIR$/src/Lesson34HandlingExeptions/demo3/App.java" />
+        <option value="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/WriteObjects.java" />
+        <option value="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/ReadObjects.java" />
+        <option value="$PROJECT_DIR$/src/Lesson46SerializingArrays/App.java" />
+        <option value="$PROJECT_DIR$/src/Lesson46SerializingArrays/Person.java" />
+        <option value="$PROJECT_DIR$/src/Lesson46SerializingArrays/WriteObjects.java" />
+        <option value="$PROJECT_DIR$/src/Lesson46SerializingArrays/ReadObjects.java" />
+        <option value="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/WriteObjects.java" />
+        <option value="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/Person.java" />
+        <option value="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.java" />
+        <option value="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/Person.java" />
       </list>
     </option>
   </component>
@@ -134,7 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -153,30 +175,33 @@
               <item name="UdemyJavaCore" type="b2602c69:ProjectViewProjectNode" />
               <item name="UdemyJavaCore" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson42InnerClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson47TransientKeywordAndMoreSerialization" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workProject" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="Lesson34HandlingExeptions.src" />
-      <recent name="Lesson33ReadingFilesUsingScanner" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore" />
       <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src\" />
       <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src\Lesson33ReadingFilesUsingScanner\src" />
       <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src\Lesson33ReadingFilesUsingScanner" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Lesson34HandlingExeptions.src" />
+      <recent name="Lesson33ReadingFilesUsingScanner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src\Lesson47TransientKeywordAndMoreSerialization" />
+      <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src\Lesson46SerializingArrays" />
+      <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -191,58 +216,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson44Recursion.App" />
+  <component name="RunManager" selected="Application.ReadObjects (2)">
+    <configuration name="ReadObjects (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson46SerializingArrays.ReadObjects" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson44Recursion.*" />
+          <option name="PATTERN" value="Lesson46SerializingArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson40CreatingAndReadingTextFiles.App" />
+    <configuration name="ReadObjects (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson47TransientKeywordAndMoreSerialization.ReadObjects" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson40CreatingAndReadingTextFiles.*" />
+          <option name="PATTERN" value="Lesson47TransientKeywordAndMoreSerialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson41TheEqualsMethod.App" />
+    <configuration name="ReadObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson45SerializationSavingObjectsToFiles.ReadObjects" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson41TheEqualsMethod.*" />
+          <option name="PATTERN" value="Lesson45SerializationSavingObjectsToFiles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson42InnerClasses.App" />
+    <configuration name="WriteObjects (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson46SerializingArrays.WriteObjects" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson42InnerClasses.*" />
+          <option name="PATTERN" value="Lesson46SerializingArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson43EnumTypesBasicAndAdvance.App" />
+    <configuration name="WriteObjects (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson47TransientKeywordAndMoreSerialization.WriteObjects" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson43EnumTypesBasicAndAdvance.*" />
+          <option name="PATTERN" value="Lesson47TransientKeywordAndMoreSerialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,19 +314,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.App (2)" />
-      <item itemvalue="Application.App (3)" />
-      <item itemvalue="Application.App (4)" />
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.ReadObjects" />
+      <item itemvalue="Application.ReadObjects (1)" />
+      <item itemvalue="Application.WriteObjects (1)" />
+      <item itemvalue="Application.WriteObjects (2)" />
+      <item itemvalue="Application.ReadObjects (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App (1)" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.App (4)" />
-        <item itemvalue="Application.App (3)" />
-        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.ReadObjects (2)" />
+        <item itemvalue="Application.ReadObjects" />
+        <item itemvalue="Application.WriteObjects (2)" />
+        <item itemvalue="Application.ReadObjects (1)" />
+        <item itemvalue="Application.WriteObjects (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -412,6 +437,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -419,54 +445,54 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="8" sideWeight="0.50104165" side_tool="true" weight="0.32937366" />
+      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="8" sideWeight="0.50572914" side_tool="true" visible="true" weight="0.32937366" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info active="true" anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.490625" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49895832" weight="0.32937366" />
+      <window_info anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.49427083" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24739583" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24739583" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" visible="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.490625" weight="0.32937366" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" order="8" sideWeight="0.49739584" visible="true" weight="0.32937366" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13020833" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" visible="true" weight="0.3296875" />
+      <window_info active="true" anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.490625" visible="true" weight="0.32937366" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24739583" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49895832" weight="0.32937366" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
       <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="9" sideWeight="0.50104165" side_tool="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49895832" weight="0.32937366" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49739584" weight="0.32937366" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
     </layout-to-restore>
@@ -491,42 +517,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="added lessons 41, 42" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lesson20StringBuilderAndStringFormatting.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson8DoWhile.java" />
-    <entry file="file://$PROJECT_DIR$/UdemyJavaCore.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson31GenericsAndWildcards.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson7GettingUserInput.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson24Interfaces/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson32AnonymousClasses.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.java" />
-    <entry file="file://$PROJECT_DIR$/example.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson33ReadingFilesUsingScanner/src/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson34HandlingExeptions/src/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson34HandlingExeptions/src/demo3/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson34HandlingExeptions/src/demo2/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson34HandlingExeptions/src/demo1/App.java" />
     <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/src.java" />
     <entry file="file://$PROJECT_DIR$/src/Lesson36RuntimeVsCheckedExceptions.java" />
     <entry file="file://$PROJECT_DIR$/src/Lesson37AbstractClasses/src/App.java" />
@@ -643,6 +633,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson34HandlingExeptions/demo3/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -650,17 +657,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson38ReadingFilesWithFileReader/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="364">
+          <caret line="31" column="66" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson40CreatingAndReadingTextFiles/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="448">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/people.bin">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/people.bin">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/people.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/ReadObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/WriteObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson46SerializingArrays/WriteObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="19" column="96" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
+          <folding>
+            <element signature="e#511#519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson46SerializingArrays/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="5" column="108" selection-start-line="5" selection-start-column="108" selection-end-line="5" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson46SerializingArrays/ReadObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#755#785#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson46SerializingArrays/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/WriteObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="79" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+          <folding>
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
