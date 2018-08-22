@@ -2,191 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7983b5-7229-4546-ba08-61f247f142b1" name="Default" comment="added lesson1 29-30">
-      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson1ArrayList/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson2LinkedLists/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson3HashMap/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson4SortedMaps/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson5Sets/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson10Arrays/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson11ArraysOfStrings/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson12MultiDimensionalArrays/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson13ClassesAndObjects/Lesson13ClassesAndObjects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson13ClassesAndObjects/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson14Methods/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson14Methods/Lesson14Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson15GettersAndReturnValues/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson15GettersAndReturnValues/Lesson15GettersAndReturnValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson16MethodParameters/Lesson16MethodParameters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson16MethodParameters/Robot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson17SettersAndThis/Frog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson17SettersAndThis/Lesson17SettersAndThis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson18Constructors/Lesson18Constructors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson18Constructors/Machine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson19StaticAndFinal/Lesson19StaticAndFinal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson19StaticAndFinal/Thing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson1HelloWorldProgram/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson20StringBuilderAndStringFormatting/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson21toStringMethod/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson21toStringMethod/Lesson21toStringMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson22Inheritance/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson22Inheritance/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson22Inheritance/Machine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson23Packages/appPackage/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson23Packages/ocean/Fish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson23Packages/ocean/Seaweed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson24Interfaces/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson24Interfaces/IStartable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson24Interfaces/Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson24Interfaces/Machine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson24Interfaces/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson25PublicPrivateProtected/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson25PublicPrivateProtected/Grass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson25PublicPrivateProtected/SomethingElse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson25PublicPrivateProtected/world/Field.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson25PublicPrivateProtected/world/Oak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson25PublicPrivateProtected/world/Plant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson26Polymorphism/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson26Polymorphism/Plant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson26Polymorphism/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson27EncapsulationAndAPIDocs/Lesson27EncapsulationAndAPIDocs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson27EncapsulationAndAPIDocs/Plant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson28CastingNumericalValues/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson29UpcastingAndDowncasting/Camera.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson29UpcastingAndDowncasting/Lesson29UpcastingAndDowncasting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson29UpcastingAndDowncasting/Mechanism.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson2UsingVariables/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson30UsingGenerics/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson30UsingGenerics/Lesson30UsingGenerics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson31GenericsAndWildcards/Audi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson31GenericsAndWildcards/Automobile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson31GenericsAndWildcards/Lesson31GenericsAndWildcards.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses/Lesson32AnonymousClasses$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses/Lesson32AnonymousClasses$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses/Lesson32AnonymousClasses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson33ReadingFilesUsingScanner/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson34HandlingExeptions/demo1/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson34HandlingExeptions/demo2/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson34HandlingExeptions/demo3/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson35MultipleExceptions/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson35MultipleExceptions/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson36RuntimeVsCheckedExceptions/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/Camera.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/Machine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson38ReadingFilesWithFileReader/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson39TryWithResources/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson39TryWithResources/App2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson39TryWithResources/Temp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson3Strings/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson40CreatingAndReadingTextFiles/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson41TheEqualsMethod/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson41TheEqualsMethod/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson42InnerClasses/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson42InnerClasses/Robot$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson42InnerClasses/Robot$1Temp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson42InnerClasses/Robot$Battery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson42InnerClasses/Robot$Brain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson42InnerClasses/Robot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson43EnumTypesBasicAndAdvance/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson43EnumTypesBasicAndAdvance/App$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson43EnumTypesBasicAndAdvance/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson44Recursion/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson45SerializationSavingObjectsToFiles/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson45SerializationSavingObjectsToFiles/ReadObjects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson45SerializationSavingObjectsToFiles/WriteObjects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson46SerializingArrays/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson46SerializingArrays/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson46SerializingArrays/ReadObjects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson46SerializingArrays/WriteObjects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson47TransientKeywordAndMoreSerialization/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson47TransientKeywordAndMoreSerialization/WriteObjects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson4WhileLoops/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson5ForLoops/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson6ConditionalStatement/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson7GettingUserInput/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson8DoWhile/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson9Switch/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson10Arrays/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson10Arrays/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson11ArraysOfStrings/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson11ArraysOfStrings/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson12MultiDimensionalArrays/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson12MultiDimensionalArrays/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson13ClassesAndObjects/Lesson13ClassesAndObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson13ClassesAndObjects/Lesson13ClassesAndObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson14Methods/Lesson14Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson14Methods/Lesson14Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson15GettersAndReturnValues/Lesson15GettersAndReturnValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson15GettersAndReturnValues/Lesson15GettersAndReturnValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson16MethodParameters/Lesson16MethodParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson16MethodParameters/Lesson16MethodParameters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson17SettersAndThis/Lesson17SettersAndThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson17SettersAndThis/Lesson17SettersAndThis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson18Constructors/Lesson18Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson18Constructors/Lesson18Constructors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson19StaticAndFinal/Lesson19StaticAndFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson19StaticAndFinal/Lesson19StaticAndFinal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1HelloWorldProgram/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson1HelloWorldProgram/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson20StringBuilderAndStringFormatting/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson20StringBuilderAndStringFormatting/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson21toStringMethod/Lesson21toStringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson21toStringMethod/Lesson21toStringMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson22Inheritance/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson22Inheritance/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson22Inheritance/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson22Inheritance/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson22Inheritance/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson22Inheritance/Machine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson23Packages/appPackage/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson23Packages/appPackage/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson23Packages/ocean/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson23Packages/ocean/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson23Packages/ocean/Seaweed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson23Packages/ocean/Seaweed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson24Interfaces/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson24Interfaces/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson24Interfaces/IStartable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson24Interfaces/IStartable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson24Interfaces/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson24Interfaces/Info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson24Interfaces/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson24Interfaces/Machine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson24Interfaces/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson24Interfaces/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson25PublicPrivateProtected/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/Grass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson25PublicPrivateProtected/Grass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson25PublicPrivateProtected/world/Field.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Oak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson25PublicPrivateProtected/world/Oak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson25PublicPrivateProtected/world/Plant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson26Polymorphism/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson26Polymorphism/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson26Polymorphism/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson26Polymorphism/Plant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson26Polymorphism/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson26Polymorphism/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson27EncapsulationAndAPIDocs/Lesson27EncapsulationAndAPIDocs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson27EncapsulationAndAPIDocs/Lesson27EncapsulationAndAPIDocs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson28CastingNumericalValues/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson28CastingNumericalValues/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson29UpcastingAndDowncasting/Lesson29UpcastingAndDowncasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson29UpcastingAndDowncasting/Lesson29UpcastingAndDowncasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2UsingVariables/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson2UsingVariables/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson30UsingGenerics/Lesson30UsingGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson30UsingGenerics/Lesson30UsingGenerics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson31GenericsAndWildcards/Lesson31GenericsAndWildcards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson31GenericsAndWildcards/Lesson31GenericsAndWildcards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson32AnonymousClasses/Lesson32AnonymousClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson32AnonymousClasses/Lesson32AnonymousClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson33ReadingFilesUsingScanner/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson33ReadingFilesUsingScanner/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson34HandlingExeptions/demo1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson34HandlingExeptions/demo1/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson34HandlingExeptions/demo2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson34HandlingExeptions/demo2/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson34HandlingExeptions/demo3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson34HandlingExeptions/demo3/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson35MultipleExceptions/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson35MultipleExceptions/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson35MultipleExceptions/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson35MultipleExceptions/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson36RuntimeVsCheckedExceptions/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson36RuntimeVsCheckedExceptions/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson37AbstractClasses/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson37AbstractClasses/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson37AbstractClasses/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson37AbstractClasses/Camera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson37AbstractClasses/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson37AbstractClasses/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson37AbstractClasses/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson37AbstractClasses/Machine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson38ReadingFilesWithFileReader/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson38ReadingFilesWithFileReader/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson39TryWithResources/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson39TryWithResources/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson39TryWithResources/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson39TryWithResources/App2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3Strings/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson3Strings/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson40CreatingAndReadingTextFiles/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson40CreatingAndReadingTextFiles/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson41TheEqualsMethod/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson41TheEqualsMethod/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson42InnerClasses/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson42InnerClasses/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson42InnerClasses/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson42InnerClasses/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson43EnumTypesBasicAndAdvance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson43EnumTypesBasicAndAdvance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson43EnumTypesBasicAndAdvance/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson43EnumTypesBasicAndAdvance/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson44Recursion/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson44Recursion/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson45SerializationSavingObjectsToFiles/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/ReadObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson45SerializationSavingObjectsToFiles/ReadObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/WriteObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson45SerializationSavingObjectsToFiles/WriteObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson46SerializingArrays/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson46SerializingArrays/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson46SerializingArrays/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson46SerializingArrays/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson46SerializingArrays/ReadObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson46SerializingArrays/ReadObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson46SerializingArrays/WriteObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson46SerializingArrays/WriteObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson47TransientKeywordAndMoreSerialization/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/WriteObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson47TransientKeywordAndMoreSerialization/WriteObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson48PassingByValue/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson48PassingByValue/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson48PassingByValue/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson48PassingByValue/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson4WhileLoops/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson4WhileLoops/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson5ForLoops/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson5ForLoops/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson6ConditionalStatement/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson6ConditionalStatement/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7GettingUserInput/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson7GettingUserInput/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson8DoWhile/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson8DoWhile/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson9Switch/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson9Switch/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section1_ProgrammingCoreJava/Lesson10Arrays/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section1_ProgrammingCoreJava/Lesson10Arrays/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson1ArrayList/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson1ArrayList/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson2LinkedLists/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson2LinkedLists/App.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -205,14 +27,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson2LinkedLists/App.java">
+        <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson5Sets/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+            <state relative-caret-position="521">
+              <caret line="92" column="31" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#415#424#0" expanded="true" />
-                <element signature="e#513#522#0" expanded="true" />
+                <element signature="e#778#786#0" expanded="true" />
+                <element signature="e#2064#2072#0" expanded="true" />
+                <element signature="e#2460#2468#0" expanded="true" />
+                <element signature="e#2875#2883#0" expanded="true" />
+                <element signature="e#2943#2951#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson4SortedMaps/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="31" column="88" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -235,9 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lesson28CastingNumericalValues.java" />
-        <option value="$PROJECT_DIR$/src/Lesson29UpcastingAndDowncasting.java" />
-        <option value="$PROJECT_DIR$/src/Lesson31GenericsAndWildcards.java" />
         <option value="$PROJECT_DIR$/src/Lesson32AnonimousClasses.java" />
         <option value="$PROJECT_DIR$/src/Lesson32AnonymousClasses.java" />
         <option value="$PROJECT_DIR$/src/Lesson33ReadingFilesUsingScanner.java" />
@@ -286,6 +120,9 @@
         <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson1ArrayList/App.java" />
         <option value="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson10Arrays/App.java" />
         <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson2LinkedLists/App.java" />
+        <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson3HashMap/App.java" />
+        <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson4SortedMaps/App.java" />
+        <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson5Sets/App.java" />
       </list>
     </option>
   </component>
@@ -323,6 +160,13 @@
               <item name="UdemyJavaCore" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Section2_JavaCollectionsFramework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyJavaCore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UdemyJavaCore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Section2_JavaCollectionsFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson5Sets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -363,14 +207,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App (2)">
+  <component name="RunManager" selected="Application.App (1)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section1_ProgrammingCoreJava.Lesson12MultiDimensionalArrays.App" />
+      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson5Sets.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section1_ProgrammingCoreJava.Lesson12MultiDimensionalArrays.*" />
+          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson5Sets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,32 +241,27 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson4SortedMaps.App" />
+      <module name="UdemyJavaCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson4SortedMaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section1_ProgrammingCoreJava.Lesson11ArraysOfStrings.App" />
+      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson3HashMap.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section1_ProgrammingCoreJava.Lesson11ArraysOfStrings.*" />
+          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson3HashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="Lesson29UpcastingAndDowncasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section1_ProgrammingCoreJava.Lesson29UpcastingAndDowncasting.Lesson29UpcastingAndDowncasting" />
-      <module name="UdemyJavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Section1_ProgrammingCoreJava.Lesson29UpcastingAndDowncasting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="RRR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RRR" />
-      <module name="UdemyJavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -466,19 +305,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.App (1)" />
-      <item itemvalue="Application.RRR" />
-      <item itemvalue="Application.Lesson29UpcastingAndDowncasting" />
       <item itemvalue="Application.App (2)" />
       <item itemvalue="Application.App (3)" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.App (4)" />
+      <item itemvalue="Application.App (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App (4)" />
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (3)" />
-        <item itemvalue="Application.Lesson29UpcastingAndDowncasting" />
-        <item itemvalue="Application.App (1)" />
-        <item itemvalue="Application.RRR" />
       </list>
     </recent_temporary>
   </component>
@@ -592,13 +431,13 @@
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.496875" weight="0.32937366" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49635416" weight="0.32937366" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="8" sideWeight="0.5072917" side_tool="true" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="8" sideWeight="0.5078125" side_tool="true" visible="true" weight="0.29805616" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.49270833" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.4921875" visible="true" weight="0.29805616" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49895832" weight="0.32937366" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
       <window_info id="Capture Tool" order="6" />
@@ -668,9 +507,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="added lessons 41, 42" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lesson38ReadingFilesWithFileReader/src/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson39TryWithResources/src/App.java" />
-    <entry file="file://$PROJECT_DIR$/te66xt.txt" />
     <entry file="file://$PROJECT_DIR$/src/Lesson39TryWithResources/src/App2.java" />
     <entry file="file://$PROJECT_DIR$/writeText.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -951,17 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson1ArrayList/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1068#1076#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson10Arrays/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
@@ -971,12 +796,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson2LinkedLists/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="700">
           <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#415#424#0" expanded="true" />
-            <element signature="e#513#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson1ArrayList/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson3HashMap/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson4SortedMaps/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="31" column="88" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson5Sets/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="92" column="31" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#778#786#0" expanded="true" />
+            <element signature="e#2064#2072#0" expanded="true" />
+            <element signature="e#2460#2468#0" expanded="true" />
+            <element signature="e#2875#2883#0" expanded="true" />
+            <element signature="e#2943#2951#0" expanded="true" />
           </folding>
         </state>
       </provider>
