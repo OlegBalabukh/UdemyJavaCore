@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf7983b5-7229-4546-ba08-61f247f142b1" name="Default" comment="added lesson1 29-30">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/ReadObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/WriteObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson46SerializingArrays/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson46SerializingArrays/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson46SerializingArrays/ReadObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson46SerializingArrays/WriteObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/WriteObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bf7983b5-7229-4546-ba08-61f247f142b1" name="Default" comment="added lesson1 29-30" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="15" column="79" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+              <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
               <folding>
                 <element signature="e#555#556#0" expanded="true" />
                 <element signature="e#591#592#0" expanded="true" />
@@ -437,7 +424,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -448,7 +434,7 @@
       <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="8" sideWeight="0.50572914" side_tool="true" visible="true" weight="0.32937366" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49895832" weight="0.32937366" />
-      <window_info anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.49427083" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.49427083" weight="0.32937366" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -769,7 +755,7 @@
     <entry file="file://$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="15" column="79" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+          <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
           <folding>
             <element signature="e#555#556#0" expanded="true" />
             <element signature="e#591#592#0" expanded="true" />
