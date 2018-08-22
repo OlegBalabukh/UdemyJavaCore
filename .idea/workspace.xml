@@ -1,7 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf7983b5-7229-4546-ba08-61f247f142b1" name="Default" comment="added lesson1 29-30" />
+    <list default="true" id="bf7983b5-7229-4546-ba08-61f247f142b1" name="Default" comment="added lesson1 29-30">
+      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson1ArrayList/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson2LinkedLists/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson10Arrays/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson11ArraysOfStrings/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson12MultiDimensionalArrays/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson13ClassesAndObjects/Lesson13ClassesAndObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson13ClassesAndObjects/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson14Methods/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson14Methods/Lesson14Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson15GettersAndReturnValues/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson15GettersAndReturnValues/Lesson15GettersAndReturnValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson16MethodParameters/Lesson16MethodParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson16MethodParameters/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson17SettersAndThis/Frog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson17SettersAndThis/Lesson17SettersAndThis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson18Constructors/Lesson18Constructors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson18Constructors/Machine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson19StaticAndFinal/Lesson19StaticAndFinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson19StaticAndFinal/Thing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson1HelloWorldProgram/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson20StringBuilderAndStringFormatting/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson21toStringMethod/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson21toStringMethod/Lesson21toStringMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson22Inheritance/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson22Inheritance/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson22Inheritance/Machine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson23Packages/appPackage/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson23Packages/ocean/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson23Packages/ocean/Seaweed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson24Interfaces/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson24Interfaces/IStartable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson24Interfaces/Info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson24Interfaces/Machine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson24Interfaces/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson25PublicPrivateProtected/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson25PublicPrivateProtected/Grass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson25PublicPrivateProtected/SomethingElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson25PublicPrivateProtected/world/Field.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson25PublicPrivateProtected/world/Oak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson25PublicPrivateProtected/world/Plant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson26Polymorphism/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson26Polymorphism/Plant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson26Polymorphism/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson27EncapsulationAndAPIDocs/Lesson27EncapsulationAndAPIDocs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson27EncapsulationAndAPIDocs/Plant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson28CastingNumericalValues/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson29UpcastingAndDowncasting/Camera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson29UpcastingAndDowncasting/Lesson29UpcastingAndDowncasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson29UpcastingAndDowncasting/Mechanism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson2UsingVariables/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson30UsingGenerics/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson30UsingGenerics/Lesson30UsingGenerics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson31GenericsAndWildcards/Audi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson31GenericsAndWildcards/Automobile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson31GenericsAndWildcards/Lesson31GenericsAndWildcards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses/Lesson32AnonymousClasses$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses/Lesson32AnonymousClasses$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses/Lesson32AnonymousClasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson33ReadingFilesUsingScanner/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson34HandlingExeptions/demo1/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson34HandlingExeptions/demo2/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson34HandlingExeptions/demo3/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson35MultipleExceptions/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson35MultipleExceptions/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson36RuntimeVsCheckedExceptions/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/Camera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/Machine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson38ReadingFilesWithFileReader/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson39TryWithResources/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson39TryWithResources/App2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson39TryWithResources/Temp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson3Strings/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson40CreatingAndReadingTextFiles/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson41TheEqualsMethod/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson41TheEqualsMethod/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson42InnerClasses/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson42InnerClasses/Robot$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson42InnerClasses/Robot$1Temp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson42InnerClasses/Robot$Battery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson42InnerClasses/Robot$Brain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson42InnerClasses/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson43EnumTypesBasicAndAdvance/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson43EnumTypesBasicAndAdvance/App$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson43EnumTypesBasicAndAdvance/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson44Recursion/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson45SerializationSavingObjectsToFiles/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson45SerializationSavingObjectsToFiles/ReadObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson45SerializationSavingObjectsToFiles/WriteObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson46SerializingArrays/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson46SerializingArrays/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson46SerializingArrays/ReadObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson46SerializingArrays/WriteObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson47TransientKeywordAndMoreSerialization/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson47TransientKeywordAndMoreSerialization/WriteObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson4WhileLoops/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson5ForLoops/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson6ConditionalStatement/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson7GettingUserInput/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson8DoWhile/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson9Switch/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson10Arrays/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson10Arrays/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson11ArraysOfStrings/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson11ArraysOfStrings/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson12MultiDimensionalArrays/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson12MultiDimensionalArrays/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson13ClassesAndObjects/Lesson13ClassesAndObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson13ClassesAndObjects/Lesson13ClassesAndObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson14Methods/Lesson14Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson14Methods/Lesson14Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson15GettersAndReturnValues/Lesson15GettersAndReturnValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson15GettersAndReturnValues/Lesson15GettersAndReturnValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson16MethodParameters/Lesson16MethodParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson16MethodParameters/Lesson16MethodParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson17SettersAndThis/Lesson17SettersAndThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson17SettersAndThis/Lesson17SettersAndThis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson18Constructors/Lesson18Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson18Constructors/Lesson18Constructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson19StaticAndFinal/Lesson19StaticAndFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson19StaticAndFinal/Lesson19StaticAndFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1HelloWorldProgram/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson1HelloWorldProgram/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson20StringBuilderAndStringFormatting/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson20StringBuilderAndStringFormatting/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson21toStringMethod/Lesson21toStringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson21toStringMethod/Lesson21toStringMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson22Inheritance/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson22Inheritance/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson22Inheritance/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson22Inheritance/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson22Inheritance/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson22Inheritance/Machine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson23Packages/appPackage/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson23Packages/appPackage/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson23Packages/ocean/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson23Packages/ocean/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson23Packages/ocean/Seaweed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson23Packages/ocean/Seaweed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson24Interfaces/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson24Interfaces/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson24Interfaces/IStartable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson24Interfaces/IStartable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson24Interfaces/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson24Interfaces/Info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson24Interfaces/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson24Interfaces/Machine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson24Interfaces/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson24Interfaces/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson25PublicPrivateProtected/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/Grass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson25PublicPrivateProtected/Grass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson25PublicPrivateProtected/world/Field.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Oak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson25PublicPrivateProtected/world/Oak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson25PublicPrivateProtected/world/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson25PublicPrivateProtected/world/Plant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson26Polymorphism/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson26Polymorphism/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson26Polymorphism/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson26Polymorphism/Plant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson26Polymorphism/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson26Polymorphism/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson27EncapsulationAndAPIDocs/Lesson27EncapsulationAndAPIDocs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson27EncapsulationAndAPIDocs/Lesson27EncapsulationAndAPIDocs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson28CastingNumericalValues/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson28CastingNumericalValues/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson29UpcastingAndDowncasting/Lesson29UpcastingAndDowncasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson29UpcastingAndDowncasting/Lesson29UpcastingAndDowncasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2UsingVariables/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson2UsingVariables/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson30UsingGenerics/Lesson30UsingGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson30UsingGenerics/Lesson30UsingGenerics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson31GenericsAndWildcards/Lesson31GenericsAndWildcards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson31GenericsAndWildcards/Lesson31GenericsAndWildcards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson32AnonymousClasses/Lesson32AnonymousClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson32AnonymousClasses/Lesson32AnonymousClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson33ReadingFilesUsingScanner/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson33ReadingFilesUsingScanner/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson34HandlingExeptions/demo1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson34HandlingExeptions/demo1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson34HandlingExeptions/demo2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson34HandlingExeptions/demo2/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson34HandlingExeptions/demo3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson34HandlingExeptions/demo3/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson35MultipleExceptions/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson35MultipleExceptions/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson35MultipleExceptions/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson35MultipleExceptions/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson36RuntimeVsCheckedExceptions/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson36RuntimeVsCheckedExceptions/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson37AbstractClasses/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson37AbstractClasses/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson37AbstractClasses/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson37AbstractClasses/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson37AbstractClasses/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson37AbstractClasses/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson37AbstractClasses/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson37AbstractClasses/Machine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson38ReadingFilesWithFileReader/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson38ReadingFilesWithFileReader/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson39TryWithResources/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson39TryWithResources/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson39TryWithResources/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson39TryWithResources/App2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3Strings/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson3Strings/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson40CreatingAndReadingTextFiles/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson40CreatingAndReadingTextFiles/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson41TheEqualsMethod/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson41TheEqualsMethod/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson42InnerClasses/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson42InnerClasses/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson42InnerClasses/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson42InnerClasses/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson43EnumTypesBasicAndAdvance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson43EnumTypesBasicAndAdvance/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson43EnumTypesBasicAndAdvance/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson43EnumTypesBasicAndAdvance/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson44Recursion/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson44Recursion/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson45SerializationSavingObjectsToFiles/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/ReadObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson45SerializationSavingObjectsToFiles/ReadObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/WriteObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson45SerializationSavingObjectsToFiles/WriteObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson46SerializingArrays/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson46SerializingArrays/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson46SerializingArrays/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson46SerializingArrays/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson46SerializingArrays/ReadObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson46SerializingArrays/ReadObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson46SerializingArrays/WriteObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson46SerializingArrays/WriteObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson47TransientKeywordAndMoreSerialization/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/WriteObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson47TransientKeywordAndMoreSerialization/WriteObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson48PassingByValue/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson48PassingByValue/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson48PassingByValue/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson48PassingByValue/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4WhileLoops/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson4WhileLoops/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5ForLoops/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson5ForLoops/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6ConditionalStatement/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson6ConditionalStatement/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7GettingUserInput/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson7GettingUserInput/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson8DoWhile/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson8DoWhile/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson9Switch/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson9Switch/App.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,42 +204,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReadObjects.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.java">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson2LinkedLists/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="191">
+              <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
-              <folding>
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WriteObjects.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/WriteObjects.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#415#424#0" expanded="true" />
+                <element signature="e#513#522#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,11 +235,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lesson26Polymorphism/src/Plant.java" />
-        <option value="$PROJECT_DIR$/src/Lesson26Polymorphism/src/Tree.java" />
-        <option value="$PROJECT_DIR$/src/Lesson26Polymorphism/src/App.java" />
-        <option value="$PROJECT_DIR$/src/Lesson26EncapsulationAndAPIDocs.java" />
-        <option value="$PROJECT_DIR$/src/Lesson27EncapsulationAndAPIDocs.java" />
         <option value="$PROJECT_DIR$/src/Lesson28CastingNumericalValues.java" />
         <option value="$PROJECT_DIR$/src/Lesson29UpcastingAndDowncasting.java" />
         <option value="$PROJECT_DIR$/src/Lesson31GenericsAndWildcards.java" />
@@ -127,10 +281,15 @@
         <option value="$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/Person.java" />
         <option value="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.java" />
         <option value="$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/Person.java" />
+        <option value="$PROJECT_DIR$/src/RRR.java" />
+        <option value="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson29UpcastingAndDowncasting/Lesson29UpcastingAndDowncasting.java" />
+        <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson1ArrayList/App.java" />
+        <option value="$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson10Arrays/App.java" />
+        <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson2LinkedLists/App.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="100" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -144,8 +303,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,26 +322,20 @@
               <item name="UdemyJavaCore" type="b2602c69:ProjectViewProjectNode" />
               <item name="UdemyJavaCore" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson47TransientKeywordAndMoreSerialization" type="462c0819:PsiDirectoryNode" />
+              <item name="Section2_JavaCollectionsFramework" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workProject" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore" />
-      <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src\" />
-      <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src\Lesson33ReadingFilesUsingScanner\src" />
-      <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src\Lesson33ReadingFilesUsingScanner" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Section2_JavaCollectionsFramework" />
       <recent name="Lesson34HandlingExeptions.src" />
       <recent name="Lesson33ReadingFilesUsingScanner" />
     </key>
@@ -189,6 +343,12 @@
       <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src\Lesson47TransientKeywordAndMoreSerialization" />
       <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src\Lesson46SerializingArrays" />
       <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore" />
+      <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src\" />
+      <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src\Lesson33ReadingFilesUsingScanner\src" />
+      <recent name="C:\Users\obalab\Desktop\myGit\UdemyJavaCore\src\Lesson33ReadingFilesUsingScanner" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -203,61 +363,66 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReadObjects (2)">
-    <configuration name="ReadObjects (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson46SerializingArrays.ReadObjects" />
+  <component name="RunManager" selected="Application.App (2)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section1_ProgrammingCoreJava.Lesson12MultiDimensionalArrays.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson46SerializingArrays.*" />
+          <option name="PATTERN" value="Section1_ProgrammingCoreJava.Lesson12MultiDimensionalArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ReadObjects (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson47TransientKeywordAndMoreSerialization.ReadObjects" />
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson1ArrayList.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson47TransientKeywordAndMoreSerialization.*" />
+          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson1ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ReadObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson45SerializationSavingObjectsToFiles.ReadObjects" />
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson2LinkedLists.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson45SerializationSavingObjectsToFiles.*" />
+          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson2LinkedLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="WriteObjects (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson46SerializingArrays.WriteObjects" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section1_ProgrammingCoreJava.Lesson11ArraysOfStrings.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson46SerializingArrays.*" />
+          <option name="PATTERN" value="Section1_ProgrammingCoreJava.Lesson11ArraysOfStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="WriteObjects (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson47TransientKeywordAndMoreSerialization.WriteObjects" />
+    <configuration name="Lesson29UpcastingAndDowncasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section1_ProgrammingCoreJava.Lesson29UpcastingAndDowncasting.Lesson29UpcastingAndDowncasting" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson47TransientKeywordAndMoreSerialization.*" />
+          <option name="PATTERN" value="Section1_ProgrammingCoreJava.Lesson29UpcastingAndDowncasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+    </configuration>
+    <configuration name="RRR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RRR" />
+      <module name="UdemyJavaCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -301,19 +466,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ReadObjects" />
-      <item itemvalue="Application.ReadObjects (1)" />
-      <item itemvalue="Application.WriteObjects (1)" />
-      <item itemvalue="Application.WriteObjects (2)" />
-      <item itemvalue="Application.ReadObjects (2)" />
+      <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.RRR" />
+      <item itemvalue="Application.Lesson29UpcastingAndDowncasting" />
+      <item itemvalue="Application.App (2)" />
+      <item itemvalue="Application.App (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReadObjects (2)" />
-        <item itemvalue="Application.ReadObjects" />
-        <item itemvalue="Application.WriteObjects (2)" />
-        <item itemvalue="Application.ReadObjects (1)" />
-        <item itemvalue="Application.WriteObjects (1)" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (3)" />
+        <item itemvalue="Application.Lesson29UpcastingAndDowncasting" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.RRR" />
       </list>
     </recent_temporary>
   </component>
@@ -423,29 +588,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49739584" weight="0.32937366" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.496875" weight="0.32937366" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="8" sideWeight="0.50572914" side_tool="true" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="8" sideWeight="0.5072917" side_tool="true" visible="true" weight="0.32937366" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.49270833" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49895832" weight="0.32937366" />
-      <window_info anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.49427083" weight="0.32937366" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24739583" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49947917" weight="0.32937366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" visible="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,28 +622,28 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Coverage" order="0" side_tool="true" visible="true" weight="0.3296875" />
       <window_info active="true" anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.490625" visible="true" weight="0.32937366" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49739584" weight="0.32937366" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24739583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49895832" weight="0.32937366" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" visible="true" weight="0.3296875" />
       <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="9" sideWeight="0.50104165" side_tool="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49895832" weight="0.32937366" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49739584" weight="0.32937366" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
     </layout-to-restore>
@@ -503,21 +668,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="added lessons 41, 42" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/src.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson36RuntimeVsCheckedExceptions.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson37AbstractClasses/src/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson37AbstractClasses/src/Camera.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson37AbstractClasses/src/Car.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson37AbstractClasses/src/Machine.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/src/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/src/App.java" />
-    <entry file="file://$PROJECT_DIR$/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson38ReadingFilesWithFileReader/src/App.java" />
     <entry file="file://$PROJECT_DIR$/src/Lesson39TryWithResources/src/App.java" />
     <entry file="file://$PROJECT_DIR$/te66xt.txt" />
@@ -530,21 +680,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson40CreatingAndReadingTextFiles/src/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson41TheEqualsMethod/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson41TheEqualsMethod/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
           <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson42InnerClasses/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson42InnerClasses/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson42InnerClasses/Robot.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson42InnerClasses/Robot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
@@ -552,14 +702,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson30UsingGenerics.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson43EnumTypesBasicAndAdvance/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson43EnumTypesBasicAndAdvance/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson43EnumTypesBasicAndAdvance/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson43EnumTypesBasicAndAdvance/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1288">
           <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
@@ -570,96 +720,91 @@
     <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/src/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/Lesson36RuntimeVsCheckedExceptions.java" />
     <entry file="file://$PROJECT_DIR$/src/Lesson37AbstractClasses.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson26Polymorphism/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson26Polymorphism/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson44Recursion/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson44Recursion/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson4WhileLoops/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson4WhileLoops/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson21toStringMethod/Lesson21toStringMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson21toStringMethod/Lesson21toStringMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="463">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson7GettingUserInput/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson7GettingUserInput/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-145">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson8DoWhile/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson8DoWhile/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson23Packages/appPackage/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson23Packages/appPackage/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson35MultipleExceptions/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson35MultipleExceptions/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson34HandlingExeptions/demo3/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson34HandlingExeptions/demo3/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson38ReadingFilesWithFileReader/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson38ReadingFilesWithFileReader/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="31" column="66" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson40CreatingAndReadingTextFiles/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson40CreatingAndReadingTextFiles/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
           <caret line="16" column="53" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/people.bin">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/people.bin" />
     <entry file="file://$PROJECT_DIR$/people.bin">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -667,10 +812,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/people.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/ReadObjects.java">
+    <entry file="file://$PROJECT_DIR$/people.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson45SerializationSavingObjectsToFiles/ReadObjects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
@@ -680,7 +823,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/WriteObjects.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson45SerializationSavingObjectsToFiles/WriteObjects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="68" />
@@ -690,7 +833,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson46SerializingArrays/WriteObjects.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson46SerializingArrays/WriteObjects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="19" column="96" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
@@ -700,14 +843,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson46SerializingArrays/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson46SerializingArrays/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="5" column="108" selection-start-line="5" selection-start-column="108" selection-end-line="5" selection-end-column="108" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson46SerializingArrays/ReadObjects.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson46SerializingArrays/ReadObjects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
@@ -718,16 +861,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson46SerializingArrays/App.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson46SerializingArrays/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/WriteObjects.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson45SerializationSavingObjectsToFiles/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="140">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson47TransientKeywordAndMoreSerialization/WriteObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
           <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -735,16 +885,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson45SerializationSavingObjectsToFiles/Person.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson47TransientKeywordAndMoreSerialization/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="252">
+          <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.java">
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson47TransientKeywordAndMoreSerialization/ReadObjects.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="79">
           <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -752,17 +905,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson47TransientKeywordAndMoreSerialization/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/RRR.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
+        <state relative-caret-position="140">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#62#63#0" expanded="true" />
+            <element signature="e#98#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson2UsingVariables/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson11ArraysOfStrings/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-392">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson12MultiDimensionalArrays/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-448">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson30UsingGenerics/Lesson30UsingGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-453">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson29UpcastingAndDowncasting/Lesson29UpcastingAndDowncasting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson1ArrayList/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1068#1076#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson10Arrays/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson2LinkedLists/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#415#424#0" expanded="true" />
+            <element signature="e#513#522#0" expanded="true" />
           </folding>
         </state>
       </provider>
