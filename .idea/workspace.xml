@@ -2,17 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7983b5-7229-4546-ba08-61f247f142b1" name="Default" comment="added lesson1 29-30">
-      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson3HashMap/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson4SortedMaps/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson5Sets/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson10UsingIterators/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson6CustomObjectsInSetsAndKeysInMaps/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson7SortingLists/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson8NaturalOrdering/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson9Queues/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section1_ProgrammingCoreJava/Lesson10Arrays/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section1_ProgrammingCoreJava/Lesson10Arrays/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson1ArrayList/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson1ArrayList/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson2LinkedLists/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson2LinkedLists/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Audi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Automobile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Camera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Frog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson10Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson11ArraysOfStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson12MultiDimensionalArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson13ClassesAndObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson14Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson15GettersAndReturnValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson16MethodParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson17SettersAndThis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson18Constructors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson19StaticAndFinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson1HelloWorldProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson20StringBuilderAndStringFormatting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson21toStringMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson22Inheritance/src/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson22Inheritance/src/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson22Inheritance/src/Machine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson23Packages/src/appPackage/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson23Packages/src/ocean/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson23Packages/src/ocean/Seaweed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson26Polymorphism/src/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson26Polymorphism/src/Plant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson26Polymorphism/src/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson27EncapsulationAndAPIDocs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson28CastingNumericalValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson29UpcastingAndDowncasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson2UsingVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson30UsingGenerics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson31GenericsAndWildcards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson33ReadingFilesUsingScanner/src/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson34HandlingExeptions/src/demo1/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson34HandlingExeptions/src/demo2/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson34HandlingExeptions/src/demo3/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson35MultipleExceptions/src/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson35MultipleExceptions/src/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson36RuntimeVsCheckedExceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/src/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/src/Camera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/src/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/src/Machine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson38ReadingFilesWithFileReader/src/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson39TryWithResources/src/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson39TryWithResources/src/App2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson39TryWithResources/src/Temp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson3Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson40CreatingAndReadingTextFiles/src/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson4WhileLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson5ForLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson6ConditionalStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson7GettingUserInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson8DoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson9Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Machine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Mechanism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Plant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson5Sets/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson5Sets/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Thing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Tree.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,32 +93,60 @@
       <FILTER>Lesson1HelloWorldProgram.*</FILTER>
     </SUITE>
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1241106735">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="6810" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6810" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson5Sets/App.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson9Queues/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="92" column="31" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
+            <state relative-caret-position="908">
+              <caret line="88" column="87" selection-start-line="88" selection-start-column="87" selection-end-line="88" selection-end-column="87" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#778#786#0" expanded="true" />
-                <element signature="e#2064#2072#0" expanded="true" />
-                <element signature="e#2460#2468#0" expanded="true" />
-                <element signature="e#2875#2883#0" expanded="true" />
-                <element signature="e#2943#2951#0" expanded="true" />
+                <element signature="e#782#791#0" expanded="true" />
+                <element signature="e#2414#2423#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson4SortedMaps/App.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson10UsingIterators/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="31" column="88" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="90" />
+            <state relative-caret-position="40">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#221#229#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,11 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lesson32AnonimousClasses.java" />
-        <option value="$PROJECT_DIR$/src/Lesson32AnonymousClasses.java" />
-        <option value="$PROJECT_DIR$/src/Lesson33ReadingFilesUsingScanner.java" />
-        <option value="$PROJECT_DIR$/src/Lesson33ReadingFilesUsingScanner/src/example.txt" />
-        <option value="$PROJECT_DIR$/src/Lesson33ReadingFilesUsingScanner/src/App.java" />
         <option value="$PROJECT_DIR$/src/Lesson34HandlingExeptions.java" />
         <option value="$PROJECT_DIR$/src/App.java" />
         <option value="$PROJECT_DIR$/src/Lesson34HandlingExeptions/src/App.java" />
@@ -123,6 +215,11 @@
         <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson3HashMap/App.java" />
         <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson4SortedMaps/App.java" />
         <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson5Sets/App.java" />
+        <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson6CustomObjectsInSetsAndKeysInMaps/App.java" />
+        <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson7SortingLists/App.java" />
+        <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson8NaturalOrdering/App.java" />
+        <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson9Queues/App.java" />
+        <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson10UsingIterators/App.java" />
       </list>
     </option>
   </component>
@@ -161,13 +258,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Section2_JavaCollectionsFramework" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="UdemyJavaCore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UdemyJavaCore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Section2_JavaCollectionsFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson5Sets" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -175,6 +265,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535039231408" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workProject" />
   </component>
   <component name="RecentsManager">
@@ -207,117 +298,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson5Sets.App" />
-      <module name="UdemyJavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson5Sets.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.App (4)">
     <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson1ArrayList.App" />
+      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson8NaturalOrdering.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson1ArrayList.*" />
+          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson8NaturalOrdering.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson2LinkedLists.App" />
+      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson7SortingLists.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson2LinkedLists.*" />
+          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson7SortingLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson4SortedMaps.App" />
+      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson10UsingIterators.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson4SortedMaps.*" />
+          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson10UsingIterators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson6CustomObjectsInSetsAndKeysInMaps.App" />
+      <module name="UdemyJavaCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson6CustomObjectsInSetsAndKeysInMaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson3HashMap.App" />
+      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson9Queues.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson3HashMap.*" />
+          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson9Queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.App (2)" />
+      <item itemvalue="Application.App (5)" />
       <item itemvalue="Application.App (3)" />
+      <item itemvalue="Application.App (2)" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.App (4)" />
-      <item itemvalue="Application.App (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App (4)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (3)" />
+        <item itemvalue="Application.App (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -427,64 +512,64 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49635416" weight="0.32937366" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="8" sideWeight="0.5078125" side_tool="true" visible="true" weight="0.29805616" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.4921875" visible="true" weight="0.29805616" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49895832" weight="0.32937366" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24739583" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49947917" weight="0.32937366" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="0" side_tool="true" visible="true" weight="0.3296875" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49947917" weight="0.32937366" />
+      <window_info anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.4904051" visible="true" weight="0.2973568" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49573562" weight="0.32929516" />
+      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="9" sideWeight="0.50959486" side_tool="true" visible="true" weight="0.2973568" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49895832" weight="0.32937366" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" visible="true" weight="0.3296875" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info active="true" anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.490625" visible="true" weight="0.32937366" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49739584" weight="0.32937366" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24739583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49895832" weight="0.32937366" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Coverage" order="0" side_tool="true" visible="true" weight="0.3296875" />
-      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="9" sideWeight="0.50104165" side_tool="true" weight="0.32937366" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.490625" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49739584" weight="0.32937366" />
+      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="9" sideWeight="0.50104165" side_tool="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49895832" weight="0.32937366" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" visible="true" weight="0.3296875" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -507,29 +592,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="added lessons 41, 42" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lesson39TryWithResources/src/App2.java" />
-    <entry file="file://$PROJECT_DIR$/writeText.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson40CreatingAndReadingTextFiles/src/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson41TheEqualsMethod/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson42InnerClasses/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson42InnerClasses/Robot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -653,9 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -663,9 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -673,9 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="19" column="96" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
-          <folding>
-            <element signature="e#511#519#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -690,10 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#755#785#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -715,9 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -735,23 +781,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="79">
           <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RRR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#62#63#0" expanded="true" />
-            <element signature="e#98#99#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RRR.java" />
     <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson2UsingVariables/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -798,9 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -808,9 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-33">
           <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -818,9 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-172">
           <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -828,23 +852,93 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="31" column="88" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson5Sets/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="92" column="31" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
+        <state relative-caret-position="208">
+          <caret line="11" column="88" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="90" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#778#786#0" expanded="true" />
-            <element signature="e#2064#2072#0" expanded="true" />
-            <element signature="e#2460#2468#0" expanded="true" />
-            <element signature="e#2875#2883#0" expanded="true" />
-            <element signature="e#2943#2951#0" expanded="true" />
+            <element signature="e#965#973#0" expanded="true" />
+            <element signature="e#2063#2071#0" expanded="true" />
+            <element signature="e#2454#2462#0" expanded="true" />
+            <element signature="e#2709#2717#0" expanded="true" />
+            <element signature="e#2979#2987#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson7SortingLists/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+          <folding>
+            <element signature="class#Person#0" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="class#AlphabeticalComparator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson8NaturalOrdering/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="48" column="86" selection-start-line="48" selection-start-column="86" selection-end-line="48" selection-end-column="86" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#1666#1667#0" expanded="true" />
+            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#835#843#0" expanded="true" />
+            <element signature="e#890#898#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson6CustomObjectsInSetsAndKeysInMaps/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1076">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson9Queues/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="908">
+          <caret line="88" column="87" selection-start-line="88" selection-start-column="87" selection-end-line="88" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#782#791#0" expanded="true" />
+            <element signature="e#2414#2423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson10UsingIterators/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#221#229#0" expanded="true" />
           </folding>
         </state>
       </provider>
