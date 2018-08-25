@@ -2,83 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7983b5-7229-4546-ba08-61f247f142b1" name="Default" comment="added lesson1 29-30">
-      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson10UsingIterators/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson6CustomObjectsInSetsAndKeysInMaps/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson7SortingLists/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson8NaturalOrdering/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson9Queues/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson11ImplementingIterable/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson11ImplementingIterable/UrlLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson12WhichCollectionToUse/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson13ComlpexDataSructures/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Audi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Automobile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Camera.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Frog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson10Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson11ArraysOfStrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson12MultiDimensionalArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson13ClassesAndObjects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson14Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson15GettersAndReturnValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson16MethodParameters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson17SettersAndThis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson18Constructors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson19StaticAndFinal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson1HelloWorldProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson20StringBuilderAndStringFormatting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson21toStringMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson22Inheritance/src/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson22Inheritance/src/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson22Inheritance/src/Machine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson23Packages/src/appPackage/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson23Packages/src/ocean/Fish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson23Packages/src/ocean/Seaweed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson26Polymorphism/src/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson26Polymorphism/src/Plant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson26Polymorphism/src/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson27EncapsulationAndAPIDocs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson28CastingNumericalValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson29UpcastingAndDowncasting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson2UsingVariables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson30UsingGenerics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson31GenericsAndWildcards.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson32AnonymousClasses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson33ReadingFilesUsingScanner/src/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson34HandlingExeptions/src/demo1/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson34HandlingExeptions/src/demo2/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson34HandlingExeptions/src/demo3/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson35MultipleExceptions/src/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson35MultipleExceptions/src/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson36RuntimeVsCheckedExceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/src/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/src/Camera.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/src/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson37AbstractClasses/src/Machine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson38ReadingFilesWithFileReader/src/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson39TryWithResources/src/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson39TryWithResources/src/App2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson39TryWithResources/src/Temp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson3Strings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson40CreatingAndReadingTextFiles/src/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson4WhileLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson5ForLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson6ConditionalStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson7GettingUserInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson8DoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Lesson9Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Machine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Mechanism.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Plant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Robot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson5Sets/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson5Sets/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Thing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson10UsingIterators/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson10UsingIterators/App.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -122,31 +51,59 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="68063263">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3527" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3527" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson9Queues/App.java">
+        <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson12WhichCollectionToUse/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="908">
-              <caret line="88" column="87" selection-start-line="88" selection-start-column="87" selection-end-line="88" selection-end-column="87" />
+            <state relative-caret-position="-340">
+              <caret line="38" column="90" selection-start-line="38" selection-start-column="90" selection-end-line="38" selection-end-column="90" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#782#791#0" expanded="true" />
-                <element signature="e#2414#2423#0" expanded="true" />
+                <element signature="e#1034#1042#0" expanded="true" />
+                <element signature="e#1185#1193#0" expanded="true" />
+                <element signature="e#1613#1621#0" expanded="true" />
+                <element signature="e#1803#1811#0" expanded="true" />
+                <element signature="e#1920#1928#0" expanded="true" />
+                <element signature="e#2425#2441#0" expanded="true" />
+                <element signature="e#2585#2601#0" expanded="true" />
+                <element signature="e#2704#2720#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson10UsingIterators/App.java">
+        <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson13ComlpexDataSructures/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="148">
+              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#221#229#0" expanded="true" />
+                <element signature="e#515#536#0" expanded="true" />
+                <element signature="e#769#777#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -169,10 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lesson34HandlingExeptions.java" />
-        <option value="$PROJECT_DIR$/src/App.java" />
-        <option value="$PROJECT_DIR$/src/Lesson34HandlingExeptions/src/App.java" />
-        <option value="$PROJECT_DIR$/src/Lesson34HandlingExeptions/src/demo2/App.java" />
         <option value="$PROJECT_DIR$/src/Lesson34HandlingExeptions/src/demo3/App.java" />
         <option value="$PROJECT_DIR$/src/Lesson34HandlingExeptions/src/demo1/App.java" />
         <option value="$PROJECT_DIR$/src/Lesson37AbstractClasses/src/Lesson37AbstractClasses.java" />
@@ -220,14 +173,18 @@
         <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson8NaturalOrdering/App.java" />
         <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson9Queues/App.java" />
         <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson10UsingIterators/App.java" />
+        <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson11ImplementingIterable/App.java" />
+        <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson11ImplementingIterable/UrlLibrary.java" />
+        <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson12WhichCollectionToUse/App.java" />
+        <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson13ComlpexDataSructures/App.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="100" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="137" />
+    <option name="y" value="10" />
+    <option name="width" value="1275" />
+    <option name="height" value="329" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -237,9 +194,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -262,11 +216,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535039231408" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workProject" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535226781391" />
+    <property name="last_opened_file_path" value="$USER_HOME$/workProject" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -298,14 +255,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App (4)">
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson8NaturalOrdering.App" />
+  <component name="RunManager" selected="Application.App (5)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson11ImplementingIterable.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson8NaturalOrdering.*" />
+          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson11ImplementingIterable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,13 +270,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson7SortingLists.App" />
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson8NaturalOrdering.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson7SortingLists.*" />
+          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson8NaturalOrdering.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,12 +299,12 @@
       </method>
     </configuration>
     <configuration name="App (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson6CustomObjectsInSetsAndKeysInMaps.App" />
+      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson13ComlpexDataSructures.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson6CustomObjectsInSetsAndKeysInMaps.*" />
+          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson13ComlpexDataSructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,19 +347,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.App (5)" />
-      <item itemvalue="Application.App (3)" />
       <item itemvalue="Application.App (2)" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.App (4)" />
+      <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.App (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (5)" />
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App (4)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.App (2)" />
-        <item itemvalue="Application.App (3)" />
-        <item itemvalue="Application.App (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -512,9 +469,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23907454" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -523,14 +481,14 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49947917" weight="0.32937366" />
-      <window_info anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.4904051" visible="true" weight="0.2973568" />
+      <window_info active="true" anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.48907456" visible="true" weight="0.28395063" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49573562" weight="0.32929516" />
-      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="9" sideWeight="0.50959486" side_tool="true" visible="true" weight="0.2973568" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49421594" weight="0.32921812" />
+      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="9" sideWeight="0.5109255" side_tool="true" visible="true" weight="0.28395063" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49895832" weight="0.32937366" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" visible="true" weight="0.3296875" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
@@ -592,28 +550,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="added lessons 41, 42" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson42InnerClasses/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson30UsingGenerics.java" />
-    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson43EnumTypesBasicAndAdvance/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson43EnumTypesBasicAndAdvance/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1288">
-          <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/src/App.java" />
     <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/src/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/Lesson36RuntimeVsCheckedExceptions.java" />
@@ -859,14 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="11" column="88" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#965#973#0" expanded="true" />
-            <element signature="e#2063#2071#0" expanded="true" />
-            <element signature="e#2454#2462#0" expanded="true" />
-            <element signature="e#2709#2717#0" expanded="true" />
-            <element signature="e#2979#2987#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -874,20 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-          <folding>
-            <element signature="class#Person#0" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="class#AlphabeticalComparator#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -895,16 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-156">
           <caret line="48" column="86" selection-start-line="48" selection-start-column="86" selection-end-line="48" selection-end-column="86" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#1666#1667#0" expanded="true" />
-            <element signature="e#1704#1705#0" expanded="true" />
-            <element signature="e#835#843#0" expanded="true" />
-            <element signature="e#890#898#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -912,11 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1076">
           <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -924,21 +823,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="908">
           <caret line="88" column="87" selection-start-line="88" selection-start-column="87" selection-end-line="88" selection-end-column="87" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#782#791#0" expanded="true" />
-            <element signature="e#2414#2423#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson10UsingIterators/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
+        <state relative-caret-position="-109">
           <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#221#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson11ImplementingIterable/UrlLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#181#189#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#1143#1144#0" expanded="true" />
+            <element signature="e#1185#1186#0" expanded="true" />
+            <element signature="e#1616#1617#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson11ImplementingIterable/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson12WhichCollectionToUse/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="38" column="90" selection-start-line="38" selection-start-column="90" selection-end-line="38" selection-end-column="90" />
+          <folding>
+            <element signature="e#1034#1042#0" expanded="true" />
+            <element signature="e#1185#1193#0" expanded="true" />
+            <element signature="e#1613#1621#0" expanded="true" />
+            <element signature="e#1803#1811#0" expanded="true" />
+            <element signature="e#1920#1928#0" expanded="true" />
+            <element signature="e#2425#2441#0" expanded="true" />
+            <element signature="e#2585#2601#0" expanded="true" />
+            <element signature="e#2704#2720#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson13ComlpexDataSructures/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#515#536#0" expanded="true" />
+            <element signature="e#769#777#0" expanded="true" />
           </folding>
         </state>
       </provider>
