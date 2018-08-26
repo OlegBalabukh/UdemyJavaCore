@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7983b5-7229-4546-ba08-61f247f142b1" name="Default" comment="added lesson1 29-30">
-      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson11ImplementingIterable/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson11ImplementingIterable/UrlLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson12WhichCollectionToUse/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson13ComlpexDataSructures/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section3_LambdaExpressions/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson10UsingIterators/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyJavaCore/Section2_JavaCollectionsFramework/Lesson10UsingIterators/App.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,22 +50,29 @@
     <session id="68063263">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3527" />
+          <entry key="java" value="5719" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3527" />
+          <entry key="JAVA" value="5719" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -79,32 +82,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson12WhichCollectionToUse/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-340">
+            <state relative-caret-position="1064">
               <caret line="38" column="90" selection-start-line="38" selection-start-column="90" selection-end-line="38" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson13ComlpexDataSructures/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
               <folding>
-                <element signature="e#1034#1042#0" expanded="true" />
-                <element signature="e#1185#1193#0" expanded="true" />
-                <element signature="e#1613#1621#0" expanded="true" />
-                <element signature="e#1803#1811#0" expanded="true" />
-                <element signature="e#1920#1928#0" expanded="true" />
-                <element signature="e#2425#2441#0" expanded="true" />
-                <element signature="e#2585#2601#0" expanded="true" />
-                <element signature="e#2704#2720#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson13ComlpexDataSructures/App.java">
+        <entry file="file://$PROJECT_DIR$/src/Section3_LambdaExpressions/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#515#536#0" expanded="true" />
-                <element signature="e#769#777#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1932">
+              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
             </state>
           </provider>
         </entry>
@@ -126,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lesson34HandlingExeptions/src/demo3/App.java" />
         <option value="$PROJECT_DIR$/src/Lesson34HandlingExeptions/src/demo1/App.java" />
         <option value="$PROJECT_DIR$/src/Lesson37AbstractClasses/src/Lesson37AbstractClasses.java" />
         <option value="$PROJECT_DIR$/src/Lesson37AbstractClasses/src/Camera.java" />
@@ -177,10 +176,11 @@
         <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson11ImplementingIterable/UrlLibrary.java" />
         <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson12WhichCollectionToUse/App.java" />
         <option value="$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson13ComlpexDataSructures/App.java" />
+        <option value="$PROJECT_DIR$/src/Section3_LambdaExpressions/App.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="137" />
     <option name="y" value="10" />
     <option name="width" value="1275" />
@@ -194,6 +194,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,23 +209,14 @@
               <item name="UdemyJavaCore" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="UdemyJavaCore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UdemyJavaCore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Section2_JavaCollectionsFramework" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535226781391" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535298329284" />
     <property name="last_opened_file_path" value="$USER_HOME$/workProject" />
   </component>
   <component name="RecentsManager">
@@ -255,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App (5)">
+  <component name="RunManager" selected="Application.App (3)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson11ImplementingIterable.App" />
       <module name="UdemyJavaCore" />
@@ -270,13 +264,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section2_JavaCollectionsFramework.Lesson8NaturalOrdering.App" />
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section3_LambdaExpressions.App" />
       <module name="UdemyJavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section2_JavaCollectionsFramework.Lesson8NaturalOrdering.*" />
+          <option name="PATTERN" value="Section3_LambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,19 +341,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.App (2)" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.App (4)" />
       <item itemvalue="Application.App (1)" />
       <item itemvalue="Application.App (5)" />
+      <item itemvalue="Application.App (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (3)" />
         <item itemvalue="Application.App (5)" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App (4)" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.App (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -469,10 +463,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23907454" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24228792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -481,14 +475,14 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49947917" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.48907456" visible="true" weight="0.28395063" />
+      <window_info active="true" anchor="bottom" x="0" y="367" width="1920" height="305" id="Run" order="2" sideWeight="0.4877892" visible="true" weight="0.28395063" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49421594" weight="0.32921812" />
-      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="9" sideWeight="0.5109255" side_tool="true" visible="true" weight="0.28395063" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49357328" weight="0.32921812" />
+      <window_info anchor="bottom" x="478" y="367" width="964" height="305" id="Event Log" order="9" sideWeight="0.5122108" side_tool="true" visible="true" weight="0.28395063" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49895832" weight="0.32937366" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" visible="true" weight="0.3296875" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
@@ -550,8 +544,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="added lessons 41, 42" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/src/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson35MultipleExceptions/src/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/Lesson36RuntimeVsCheckedExceptions.java" />
     <entry file="file://$PROJECT_DIR$/src/Lesson37AbstractClasses.java" />
     <entry file="file://$PROJECT_DIR$/src/Section1_ProgrammingCoreJava/Lesson26Polymorphism/App.java">
@@ -830,9 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-109">
           <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -840,16 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-113">
           <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#181#189#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#1143#1144#0" expanded="true" />
-            <element signature="e#1185#1186#0" expanded="true" />
-            <element signature="e#1616#1617#0" expanded="true" />
-            <element signature="e#1657#1658#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -862,30 +841,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson12WhichCollectionToUse/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-340">
+        <state relative-caret-position="1064">
           <caret line="38" column="90" selection-start-line="38" selection-start-column="90" selection-end-line="38" selection-end-column="90" />
-          <folding>
-            <element signature="e#1034#1042#0" expanded="true" />
-            <element signature="e#1185#1193#0" expanded="true" />
-            <element signature="e#1613#1621#0" expanded="true" />
-            <element signature="e#1803#1811#0" expanded="true" />
-            <element signature="e#1920#1928#0" expanded="true" />
-            <element signature="e#2425#2441#0" expanded="true" />
-            <element signature="e#2585#2601#0" expanded="true" />
-            <element signature="e#2704#2720#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Section2_JavaCollectionsFramework/Lesson13ComlpexDataSructures/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
+        <state relative-caret-position="1428">
           <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#515#536#0" expanded="true" />
-            <element signature="e#769#777#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Lambda.zip/Lambda/src/App.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Section3_LambdaExpressions/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
         </state>
       </provider>
     </entry>
